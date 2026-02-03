@@ -88,7 +88,7 @@ function showFinal() {
     barContainer.style.display = "none";
     terminal.classList.add("final");
     terminal.textContent =
-`⚠️ DEMONSTRATION DE CYBERSECURITE ⚠️
+[ATTENTION] DEMONSTRATION DE CYBERSECURITE [ATTENTION]
 
 Vous venez d’ouvrir le fichier : Exercice math.jpg
 
